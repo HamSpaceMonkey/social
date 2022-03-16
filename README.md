@@ -1,5 +1,3 @@
-# social
-
 ## Contact 📘
 
 - Email: [HamSpaceMonkey@protonmail.com](mailto:HamSpaceMonkey@protonmail.com)
